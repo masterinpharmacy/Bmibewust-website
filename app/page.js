@@ -12,7 +12,7 @@ import React, { useState, useRef, useEffect } from "react";
 -------------------------------------- */
 
 const STEPS = [
-  { n: "01", title: "Aanmelding", body: "Je vult het intakeformulier in. Binnen 24 uur plannen we een afspraak." },
+  { n: "01", title: "Aanmelding", body: "Je vult het contactformulier in. Binnen 24 uur plannen we een afspraak." },
   { n: "02", title: "Intakegesprek", body: "We bespreken leefstijl, eetpatroon en motivatie. Jij stelt het doel." },
   { n: "03", title: "Gezondheidscheck", body: "Buikomvang, vetpercentage en bloedwaarden geven een volledig beeld." },
   { n: "04", title: "Behandelplan", body: "De huisarts bepaalt of medicatie een passende aanvulling is." },
@@ -24,8 +24,8 @@ const STEPS = [
 
 const FAQ_SEED = [
   { q: "Wat kost een traject bij BMI Bewust?", a: "Eén pakketprijs vanaf €1.490 voor het volledige 3-maanden traject — inclusief geneesmiddelen en coaching. De exacte prijs hangt af van welk geneesmiddel wordt voorgeschreven; dit bespreken we altijd vooraf, voordat je iets beslist." },
-  { q: "Wat gebeurt er na de 3 maanden?", a: "We evalueren samen je traject. Je kiest dan zelf: doorgaan met reguliere zorg en leefstijlbegeleiding via apotheek Numansdorp, of stoppen. BMI Bewust is de springplank naar die zorg — geen abonnement dat automatisch doorloopt." },
-  { q: "Waar haal ik mijn medicatie op?", a: "De geneesmiddelen worden geleverd via apotheek Numansdorp en kun je daar ook ophalen. Zo blijft de medicatiebewaking in vertrouwde, deskundige handen." },
+  { q: "Wat gebeurt er na de 3 maanden?", a: "We evalueren samen je traject. Je kiest dan zelf: doorgaan met reguliere zorg en leefstijlbegeleiding via Apotheek Numansdorp, of stoppen. BMI Bewust is de springplank naar die zorg — geen abonnement dat automatisch doorloopt." },
+  { q: "Waar haal ik mijn medicatie op?", a: "De geneesmiddelen worden geleverd via Apotheek Numansdorp en kun je daar ook ophalen. Zo blijft de medicatiebewaking in vertrouwde, deskundige handen." },
   { q: "Wordt dit vergoed door mijn zorgverzekering?", a: "GLP-1 medicatie wordt in Nederland alleen vergoed bij een medische indicatie zoals diabetes type 2, vastgesteld door je huisarts. Bij gewichtsverlies zonder die indicatie betaal je het pakket zelf. We bespreken dit altijd vooraf." },
   { q: "Is dit veilig in vergelijking met online bestellen?", a: "Bij ons werken huisarts, apotheker en diëtist samen aan jouw traject: medicatiebewaking, voedingsadvies en monitoring van bijwerkingen in één team, met levering via een echte apotheek. Bij anonieme onlineverkoop ontbreekt dat volledig." },
   { q: "Hoeveel kan ik kwijtraken?", a: "Dat verschilt per persoon. Eerdere trajecten laten resultaten zien tussen 8 en 15% lichaamsgewicht in 3 maanden, in combinatie met leefstijlverandering." },
