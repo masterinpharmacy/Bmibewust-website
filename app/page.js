@@ -33,9 +33,9 @@ const FAQ_SEED = [
 ];
 
 const PRICING_FEATURES = [
-  { title: "Eén pakketprijs", body: "Vanaf €1.490 voor het volledige 3-maanden traject, inclusief geneesmiddelen en coaching. Exacte prijs hangt af van het voorgeschreven middel." },
-  { title: "24/7 coaching", body: "Vragen of twijfels tussen de afspraken door? Je coach is dag en nacht bereikbaar." },
-  { title: "Vaste apotheek", body: "Levering en ophalen via apotheek Numansdorp — vertrouwde medicatiebewaking, geen anonieme verzending." },
+  { title: "Eén pakketprijs", body: "Vanaf €1.490 voor het volledige 3-maanden traject, inclusief geneesmiddelen, begeleiding en coaching van professionals. Exacte prijs hangt af van het voorgeschreven geneesmiddel." },
+  { title: "24/7 coaching", body: "Vragen of twijfels tussen de afspraken door? Je toegewezen coach staat voor je klaar! ." },
+  { title: "Vaste apotheek", body: "Levering en ophalen via Apotheek Numansdorp — vertrouwde medicatiebewaking, geen anonieme verzending." },
 ];
 
 
