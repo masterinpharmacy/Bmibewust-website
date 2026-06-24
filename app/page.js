@@ -23,7 +23,7 @@ const STEPS = [
 ];
 
 const FAQ_SEED = [
-  { q: "Wat kost een traject bij BMI Bewust?", a: "Eén pakketprijs vanaf €1.490 voor het volledige 3-maanden traject — inclusief geneesmiddelen en coaching. De exacte prijs hangt af van welk geneesmiddel wordt voorgeschreven; dit bespreken we altijd vooraf, voordat je iets beslist." },
+  { q: "Wat kost een traject bij BMI Bewust?", a: "Eén pakketprijs vanaf €1.490,- voor het volledige 3-maanden traject — inclusief geneesmiddelen en coaching. De exacte prijs hangt af van welk geneesmiddel wordt voorgeschreven; dit bespreken we altijd vooraf, voordat je iets beslist." },
   { q: "Wat gebeurt er na de 3 maanden?", a: "We evalueren samen je traject. Je kiest dan zelf: doorgaan met reguliere zorg en leefstijlbegeleiding via Apotheek Numansdorp, of stoppen. BMI Bewust is de springplank naar die zorg — geen abonnement dat automatisch doorloopt." },
   { q: "Waar haal ik mijn medicatie op?", a: "De geneesmiddelen worden geleverd via Apotheek Numansdorp en kun je daar ook ophalen. Zo blijft de medicatiebewaking in vertrouwde, deskundige handen." },
   { q: "Wordt dit vergoed door mijn zorgverzekering?", a: "GLP-1 medicatie wordt in Nederland alleen vergoed bij een medische indicatie zoals diabetes type 2, vastgesteld door je huisarts. Bij gewichtsverlies zonder die indicatie betaal je het pakket zelf. We bespreken dit altijd vooraf." },
@@ -33,7 +33,7 @@ const FAQ_SEED = [
 ];
 
 const PRICING_FEATURES = [
-  { title: "Eén pakketprijs", body: "Vanaf €1.490 voor het volledige 3-maanden traject, inclusief geneesmiddelen, begeleiding en coaching van professionals. Exacte prijs hangt af van het voorgeschreven geneesmiddel." },
+  { title: "Eén pakketprijs", body: "Vanaf €1.490,- voor het volledige 3-maanden traject, inclusief geneesmiddelen, begeleiding en coaching van professionals. Exacte prijs hangt af van het voorgeschreven geneesmiddel." },
   { title: "24/7 coaching", body: "Vragen of twijfels tussen de afspraken door? Je toegewezen coach staat voor je klaar! ." },
   { title: "Vaste apotheek", body: "Levering en ophalen via Apotheek Numansdorp — vertrouwde medicatiebewaking, geen anonieme verzending." },
 ];
