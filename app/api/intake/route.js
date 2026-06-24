@@ -24,6 +24,9 @@ export async function POST(request) {
     const emailBody = `
       <h2>Nieuwe intake-aanmelding via bmibewust.nl</h2>
       <p><strong>Naam:</strong> ${naam}</p>
+      <p><strong>Leeftijd:</strong> ${leeftijd}</p>
+      <p><strong>Geslacht:</strong> ${geslacht}</p>
+      <p><strong>BMI:</strong> ${BMI}</p>
       <p><strong>E-mail:</strong> ${email}</p>
       <p><strong>Telefoon:</strong> ${telefoon || "-"}</p>
       <p><strong>Bericht:</strong><br/>${(bericht || "-").replace(/\n/g, "<br/>")}</p>
