@@ -788,7 +788,7 @@ export default function BmiBewustSite() {
             <p className="hero-sub">
               Overgewicht is vaak het gevolg van jaren disbalans — lichamelijk, hormonaal, mentaal.
               BMI Bewust is jouw springplank naar een traject met verantwoord voorgeschreven medicatie
-              zoals Ozempic, Wegovy en Mounjaro: 3 maanden intensieve begeleiding, geleverd via Apotheek
+              zoals Wegovy en Mounjaro: 3 maanden intensieve begeleiding, geleverd via Apotheek
               Numansdorp, waarna je samen met ons het vervolg bepaalt.
             </p>
             <div className="hero-actions">
@@ -962,7 +962,7 @@ export default function BmiBewustSite() {
           <Reveal delay={100}>
             <div className="testi-card">
               <div className="testi-stars">★★★★★</div>
-              <p className="testi-quote">"Na het consult werd ik ingesteld op Ozempic. Drie maanden later van 80 naar 69 kg bij 1,70m."</p>
+              <p className="testi-quote">"Na het consult werd ik ingesteld op Mounjaro. Drie maanden later van 80 naar 69 kg bij 1,70m."</p>
               <p className="testi-name">E. Timmermans</p>
             </div>
           </Reveal>
