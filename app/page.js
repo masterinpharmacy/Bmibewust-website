@@ -1027,7 +1027,7 @@ export default function BmiBewustSite() {
       <footer className="footer">
         <div>
           <div className="footer-logo">BMI Bewust</div>
-          <p style={{ maxWidth: 260, fontSize: "0.82rem" }}>Burg. de Zeeuwstraat 22, 3281AJ Numansdorp</p>
+          <p style={{ maxWidth: 260, fontSize: "0.82rem" }}>Leefstijl, preventie en coaching</p>
         </div>
         <div className="footer-col">
           <h5>Contact</h5>
